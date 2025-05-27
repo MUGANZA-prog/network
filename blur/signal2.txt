@@ -5,3 +5,5 @@ Jesuu niyihe relationship iri hagati ya emp na salary na dep na salary
 Jesuu kutavuga man
 
 emp many to one slary
+
+mn reba byarangiy
