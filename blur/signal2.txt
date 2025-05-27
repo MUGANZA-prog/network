@@ -7,4 +7,5 @@ Jesuu kutavuga man
 emp many to one slary
 
 mn reba byarangiy
-yesu ashimwe
+yesu ashimwe 
+jesus: ashimwe cyane!
