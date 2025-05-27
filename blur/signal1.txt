@@ -24,3 +24,5 @@ links:
 3. Tegeka: git clone https://github.com/MUGANZA-prog/TEGEKA_Bonfils_National_Practical_Exam_2025.git
 
 mumbwire niba byakunze
+
+mumbwire uko bimeze!
