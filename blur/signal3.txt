@@ -20,4 +20,4 @@ oya wowe guma muri terminal ya vscode iyi turimo maze ukore cd ../ maze uyi clon
 hanyuma x database ndabona ifite ibibazo yo ndabigenza ute gerageje kubi importing biranga
 ok ura kora db yitwa epms nkibisanzwe hanyuma uyi kandeho maze ujye muri sql kuri xampp ukore paste yizo code za sql aho maze uhite umbwira
 
-jennifer bwira scott ko Bruno yarangije a cloninge
+jennifer bwira scott ko Bruno yarangije a cloninge : wamubwiye x
