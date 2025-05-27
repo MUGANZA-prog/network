@@ -14,3 +14,5 @@ narangije mutegereze nzibahe
 reba narangije
 ko ntayo ndikubona
 jesus bwira  uburyo nyifungura byanze ndafungura folder shyaaa mbikorere mo?
+
+oya wowe guma muri terminal ya vscode iyi turimo maze ukore cd ../ maze uyi clonninge mo irahita ijya kuri desktop ujyende uyifungure muri vscode
