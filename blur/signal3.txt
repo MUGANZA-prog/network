@@ -6,3 +6,4 @@ jesus: depcode ni attribute nago ari pk / fk urayishyira muri department gusa nk
 nose pk ya department niyihe
 jesus: kuko nayo baguhaye urayishiriraho uyite departmentId kimwe nahandi kuko kukibazo pk nago ziba ziriho
 jesus knd babwiye employee number niyo aba ari id yayo
+oya bagucanze byombi biba birimo kuko id ifite akamaro kayo kihariye
