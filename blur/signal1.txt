@@ -6,3 +6,19 @@ niyo babahaye x
 muvuge ko mwese muhari nyine mbimenye
 
 karekezi ko atavuga byanze
+
+
+project zarangiye mugiye gu clonninga 
+
+amabwiriza :
+1. buri wese a clonninge link ye
+2. mufate epms.sql file iri muri backend-project muyi pastinge muri sql kuri xampp
+3. ukore cd frontend-project ukoremo npm i kimwe no kuri cd backend npm i ubundi 
+4. kuri frontend ukore npm run dev maze i runninge kuri backend ni npm start
+5. mbere yo gu clonninga ubanze urebe ko terminal yawe iri a hantu ushaka gushyira project yawe
+
+links:
+
+1. jennifer: git clone https://github.com/MUGANZA-prog/UMURISA_Jennifer_National_Practical_Exam_2025.git
+2. karekezi: git clone https://github.com/MUGANZA-prog/KAREKEZI_MUGISHA_Yvan_National_Practical_Exam_2025.git
+3. Tegeka: git clone https://github.com/MUGANZA-prog/TEGEKA_Bonfils_National_Practical_Exam_2025.git
