@@ -18,3 +18,4 @@ jesus bwira  uburyo nyifungura byanze ndafungura folder shyaaa mbikorere mo?
 
 oya wowe guma muri terminal ya vscode iyi turimo maze ukore cd ../ maze uyi clonninge mo irahita ijya kuri desktop ujyende uyifungure muri vscode
 hanyuma x database ndabona ifite ibibazo yo ndabigenza ute gerageje kubi importing biranga
+ok ura kora db yitwa epms nkibisanzwe hanyuma uyi kandeho maze ujye muri sql kuri xampp ukore paste yizo code za sql aho maze uhite umbwira
