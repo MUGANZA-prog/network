@@ -22,3 +22,5 @@ links:
 1. jennifer: git clone https://github.com/MUGANZA-prog/UMURISA_Jennifer_National_Practical_Exam_2025.git
 2. karekezi: git clone https://github.com/MUGANZA-prog/KAREKEZI_MUGISHA_Yvan_National_Practical_Exam_2025.git
 3. Tegeka: git clone https://github.com/MUGANZA-prog/TEGEKA_Bonfils_National_Practical_Exam_2025.git
+
+mumbwire niba byakunze
